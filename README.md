@@ -66,8 +66,8 @@ Peraturan ini berlaku untuk semua anggota Discord server.
 
 ### 3.2 Dilarang Promosi Tanpa Izin (Kecuali Untuk Media dan Partnership
 - Deskripsi: Promosi server lain atau bisnis pribadi tanpa izin dari admin dilarang.
- - Tambahan Media: Hanya diperbolehkan promosi video atau konten yang bersangkutan dengan server, lainnya dilarang.
- - Tambahkan Partnership: Hanya diperbolehkan promosikan servernya pada channel yang sudah disediakan, peraturan lainnya ikuti yang tertera di syarat.
+  - Tambahan Media: Hanya diperbolehkan promosi video atau konten yang bersangkutan dengan server, lainnya dilarang.
+  - Tambahkan Partnership: Hanya diperbolehkan promosikan servernya pada channel yang sudah disediakan, peraturan lainnya ikuti yang tertera di syarat.
 - Contoh: Mengirim link server Discord lain atau mempromosikan konten/produk tanpa izin.
 - Sanksi: Teguran → Kick → Ban sementara → Ban permanen.
 
