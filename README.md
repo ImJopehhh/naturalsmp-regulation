@@ -23,7 +23,7 @@ Peraturan ini berlaku baik di server Minecraft maupun Discord untuk menciptakan 
 
 Peraturan ini berlaku untuk semua pemain di dalam server Minecraft.
 
-## 2.1 Dilarang Menggunakan Cheat, Hack, atau Exploit
+### 2.1 Dilarang Menggunakan Cheat, Hack, atau Exploit
 - Deskripsi: Penggunaan perangkat lunak ilegal atau bug exploit untuk keuntungan pribadi dilarang.
 - Contoh: X-ray, kill aura, fly hack, duplikasi item, dan semacamnya.
 - Sanksi: Ban permanen tanpa peringatan.
@@ -42,6 +42,18 @@ Peraturan ini berlaku untuk semua pemain di dalam server Minecraft.
 - Deskripsi: Semua transaksi yang melibatkan item dalam game harus dilakukan di dalam server dan sesuai aturan yang berlaku. Jual beli item, akun, atau mata uang game di luar server dilarang.
 - Contoh: Menjual item Minecraft dengan uang asli di luar platform server, menggunakan pihak ketiga untuk transaksi ilegal.
 - Sanksi: Peringatan → Ban sementara → Ban permanen.
+
+## 2.5 Jangan berbohong kepada staff
+- Deskripsi: Agar memastikan moderator atau staff di server menjalankan tugasnya dengan efektif dan baik jangan pernah berbohong kepada mereka, menutupi informasi, atau menolak memberikan informasi penting yang anda ketahui, atau memberikan informasi yang tidak sesuai fakta yang terjadi kepada mereka termasuk bukti, hukuman, dan laporan
+- Contoh:
+  - Menipu staff dengan informasi palsu
+  - Menutupi bukti atau menghapus barang bukti
+- Sanksi: Klarifikasi kepada staff atau → Ban sementara
+
+### 2.6 Bangunan Atau Gambar Yang Tidak Sesuai
+- Deskripsi: Bangunan/gambar yang mengandung unsur-unsur negatif dan tidak pantas dilarang. Semua bangunan harus masuk standar etika
+- Contoh: membuat bangunan atau lambang tidak di perbolehkan
+- Sanksi: Peringatan → Penghapusan paksa oleh staff → Jail 1 hari
 
 ## 3. Peraturan Server Discord
 
@@ -63,6 +75,11 @@ Peraturan ini berlaku untuk semua anggota Discord server.
 - Deskripsi: Mengirim konten yang tidak pantas, termasuk NSFW, kekerasan, atau ilegal, dilarang.
 - Contoh: Gambar eksplisit, tautan ke situs ilegal, atau konten kekerasan.
 - Sanksi: Ban permanen tanpa peringatan.
+
+### 3.4 Penyebaran Informasi Pribadi
+- Deskripsi: Melakukan doxxing atau penyebaran informasi pribadi dengan tujuan mengancam ataupun tidak itu sangat dilarang keras pada komunitas.
+- Contoh: Penyebaran informasi Nama asli, Umur, Tanggal lahir, Alamat, Ip address, dll.
+- Sanksi: Ban 1 hari → Ban Permanen
 
 ## 4. Sanksi dan Penegakan
 
