@@ -5,9 +5,9 @@
 Peraturan ini berlaku baik di server Minecraft maupun Discord untuk menciptakan lingkungan yang aman dan nyaman.
 
 ### 1.1 Bersikap Sopan dan Menghormati Sesama
-- **Deskripsi**: Semua anggota harus bersikap sopan dan menghormati satu sama lain. Dilarang melakukan tindakan yang menyinggung atau merendahkan orang lain.
-- **Contoh**: Menggunakan kata-kata kasar, melakukan penghinaan, atau menyerang seseorang secara pribadi.
-- **Sanksi**: Teguran → Peringatan → Muted (Discord) / Mute (Minecraft) → Ban sementara → Ban permanen.
+- Deskripsi: Semua anggota harus bersikap sopan dan menghormati satu sama lain. Dilarang melakukan tindakan yang menyinggung atau merendahkan orang lain.
+- Contoh: Menggunakan kata-kata kasar, melakukan penghinaan, atau menyerang seseorang secara pribadi.
+- Sanksi: Teguran → Peringatan → Muted (Discord) / Mute (Minecraft) → Ban sementara → Ban permanen.
 
 ### 1.2 Larangan Diskriminasi dan Pelecehan
 - Deskripsi: Tidak boleh ada diskriminasi atau pelecehan dalam bentuk apa pun, termasuk ras, agama, gender, atau orientasi seksual.
