@@ -17,7 +17,7 @@ Peraturan ini berlaku baik di server Minecraft maupun Discord untuk menciptakan 
 ### 1.3 Kepatuhan Terhadap UU ITE
 - Deskripsi: Semua aktivitas di dalam server harus sesuai dengan hukum yang berlaku, termasuk Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) di Indonesia.
 - Contoh: Penyebaran berita bohong (hoax), ujaran kebencian, atau pelanggaran privasi.
-- Sanksi: Teguran → Kick → Ban sementara → Dilaporkan ke pihak berwenang jika diperlukan.
+- Sanksi: Teguran → Kick → Ban sementara → Ban permanen
 
 ## 2. Peraturan Server Minecraft
 
