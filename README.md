@@ -1,5 +1,5 @@
 # Regulasi Server Discord dan Minecraft Survival
--- 
+
 ## 1. Peraturan Umum
 
 Peraturan ini berlaku baik di server Minecraft maupun Discord untuk menciptakan lingkungan yang aman dan nyaman.
