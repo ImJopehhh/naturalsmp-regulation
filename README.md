@@ -64,7 +64,7 @@ Peraturan ini berlaku untuk semua anggota Discord server.
 - Contoh: Memposting meme di channel diskusi serius, berbicara tentang Minecraft di channel umum.
 - Sanksi: Teguran → Peringatan → Timeout → Kick.
 
-## 3.2 Dilarang Promosi Tanpa Izin (Kecuali Untuk Media dan Partnership
+### 3.2 Dilarang Promosi Tanpa Izin (Kecuali Untuk Media dan Partnership
 - Deskripsi: Promosi server lain atau bisnis pribadi tanpa izin dari admin dilarang.
  - Tambahan Media: Hanya diperbolehkan promosi video atau konten yang bersangkutan dengan server, lainnya dilarang.
  - Tambahkan Partnership: Hanya diperbolehkan promosikan servernya pada channel yang sudah disediakan, peraturan lainnya ikuti yang tertera di syarat.
