@@ -74,19 +74,19 @@ Admin dan moderator memiliki hak untuk menegakkan peraturan dengan memberikan sa
 
 ## 5. Ketentuan Tambahan
 
-## 5.1 Perubahan Peraturan
+### 5.1 Perubahan Peraturan
 - Deskripsi: Peraturan dapat diperbarui sewaktu-waktu sesuai kebutuhan server.
 - Notifikasi: Perubahan akan diumumkan melalui website, Discord, atau dalam game. Pemain diharapkan selalu mengikuti update peraturan.
 
-## 5.2 Kewajiban Pemain
+### 5.2 Kewajiban Pemain
 - Deskripsi: Ketidaktahuan terhadap peraturan tidak membebaskan dari sanksi. Pemain harus membaca dan memahami semua peraturan.
 - Laporkan Masalah: Pemain wajib melaporkan bug, pelanggaran, atau masalah lainnya kepada staff melalui sistem tiket.
 
-## 5.3 Hak Cipta dan Kepemilikan
+### 5.3 Hak Cipta dan Kepemilikan
 - Deskripsi: Semua konten dalam server adalah milik NaturalSMP. Dilarang menyalin, mendistribusikan, atau memodifikasi tanpa izin.
 - Properti Intelektual: Hormati hak cipta dan properti intelektual pihak lain. Pelanggaran dapat dikenakan sanksi.
 
-## 5.4 Batasan Tanggung Jawab
+### 5.4 Batasan Tanggung Jawab
 - Deskripsi: **NaturalSMP** tidak bertanggung jawab atas kehilangan item, data, atau akun akibat **kelalaian** pemain.
 - Keamanan Akun: Pemain bertanggung jawab penuh atas keamanan akun mereka.
 
